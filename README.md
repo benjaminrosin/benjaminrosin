@@ -6,16 +6,23 @@
 🔍 Looking for internship and junior developer opportunities
 
 ### 🌐 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,ts,java&perline=5)](https://skillicons.dev)
+
+### 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs,bootstrap,html,git,github,sqlite,mongodb,linux&perline=5)](https://skillicons.dev)
+
+### 🤝 Let's connect
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/benjamin-rosin) [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:benjamin.rosin@gmail.com)
+
+
+<!--
 - Python
 - C++
 - C
 - JavaScript
 - TypeScript
 - JAVA
-
-### Let's connect
-🔗[Linkedin](https://linkedin.com/in/benjamin-rosin) • 📧 benjamin.rosin@gmail.com
-
+-->
 <!--
 ## Hi there 👋
 
