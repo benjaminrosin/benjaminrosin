@@ -1,9 +1,9 @@
 ## Hi, I'm Benjamin Rosin 👋
 
-🎓 Computer Science student at Hadassah Academic College, GPA 95  
+🎓 Computer Science student at Jerusalem Multidisciplinary College, GPA 95  
 🏅 Dean's List recipient for academic excellence  
 💻 Passionate about software development, backend systems, and building useful tools  
-🔍 Looking for internship and junior developer opportunities
+🔍 Looking for junior developer opportunities
 
 ### 🌐 Programming Languages
 - Python
